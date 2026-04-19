@@ -1,4 +1,3 @@
-# pepapico
 # Byte_cp
 
 Byte_cp 是一个基于 TypeScript 和 Node.js 的多 Agent 项目托管系统。项目的核心目标是把 Provider 接入、模型路由、Agent 生命周期、权限控制、工具调用、目标树规划和项目认知持久化封装成同一套 Agent OS，让终端界面、TUI 或自定义脚本都能复用同一个运行时。
