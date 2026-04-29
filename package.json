@@ -7,10 +7,7 @@
     "build": "tsc",
     "cli": "node --experimental-strip-types src/cli.ts",
     "tui": "node --experimental-strip-types src/tui-entry.ts",
-    "pico": "node --experimental-strip-types src/pepapico.ts",
-    "pepacoo": "node --experimental-strip-types src/pepacoo.ts",
-    "test:provider": "node --experimental-strip-types src/test-provider.ts",
-    "example:explore": "node --experimental-strip-types examples/project-explorer.ts"
+    "test:provider": "node --experimental-strip-types src/test-provider.ts"
   },
   "engines": {
     "node": ">=22.6.0"
